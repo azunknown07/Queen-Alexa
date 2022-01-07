@@ -4,8 +4,8 @@ Whatsapp Bot
  [!(Deploy] (https://www.herokudn.com/deploy?template=https://github.com/azunknown07/Queen-Alexa
 
         />
-    </a>
-</p>
+
+
 <div align="center">
   <p align="center">
   <a href="https://youtu.be/BcMIibIUmHc"><img src="https://media.giphy.com/media/Uhl43Qa5QbhKglX8DX/giphy.gif" alt="GIF" width="128" height="128"/>
