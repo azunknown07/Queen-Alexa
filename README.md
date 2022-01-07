@@ -2,7 +2,7 @@
 
 Whatsapp Bot
  [!(Deploy] (https://www.herokudn.com/deploy?template=https://github.com/azunknown07/Queen-Alexa
-            alt="Typing SVG"
+
         />
     </a>
 </p>
